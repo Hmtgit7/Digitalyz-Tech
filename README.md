@@ -22,7 +22,7 @@ The goal is to create a schedule that maximizes student satisfaction while adher
 
 ```
 .
-├── milestone1/              # Data Cleaning & Structuring
+├── milestone-1/              # Data Cleaning & Structuring
 │   ├── README.md            # Milestone 1 documentation
 │   ├── src/                 # Source code
 │   │   └── clean_data.js    # Data cleaning implementation
@@ -31,7 +31,7 @@ The goal is to create a schedule that maximizes student satisfaction while adher
 │   └── docs/
 │       └── validation_report.md # Data quality issues and insights
 │
-└── milestone2/              # Scheduling Algorithm
+└── milestone-2/              # Scheduling Algorithm
     ├── README.md            # Milestone 2 documentation
     ├── src/                 # Source code
     │   └── scheduler.js     # Scheduling algorithm implementation
@@ -101,14 +101,14 @@ The scheduling algorithm produces:
 
 ### Milestone 1
 ```bash
-cd milestone1
+cd milestone-1
 npm install xlsx fs path
 node src/clean_data.js
 ```
 
 ### Milestone 2
 ```bash
-cd milestone2
+cd milestone-2
 npm install fs path
 node src/scheduler.js
 ```
