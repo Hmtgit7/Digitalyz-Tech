@@ -1,0 +1,16 @@
+{
+  "name": "milestone-2",
+  "version": "1.0.0",
+  "description": "This document outlines the approach for developing a scheduling algorithm to address the Crestwood College scheduling challenge. The goal is to create a schedule that maximizes the fulfillment of student course requests while adhering to the constraints specified in the RULES sheet.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/scheduler.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,480 @@
+{
+  "5322089": {
+    "lecturerId": 5322089,
+    "blocks": {
+      "3": {
+        "courseCode": "ENGJOUR",
+        "title": "Journalism",
+        "room": 113,
+        "studentCount": 1,
+        "sectionNumber": 1
+      },
+      "1B": {
+        "courseCode": "SOCIB",
+        "title": "Introduction to Business",
+        "room": 113,
+        "studentCount": 2,
+        "sectionNumber": 1
+      },
+      "4A": {
+        "courseCode": "ENG9",
+        "title": "English 9",
+        "room": 113,
+        "studentCount": 17,
+        "sectionNumber": 1
+      },
+      "2A": {
+        "courseCode": "ENG9H",
+        "title": "English 9 Honors",
+        "room": 113,
+        "studentCount": 13,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361380": {
+    "lecturerId": 5361380,
+    "blocks": {
+      "2A": {
+        "courseCode": "MATALG2",
+        "title": "Algebra II",
+        "room": 113,
+        "studentCount": 15,
+        "sectionNumber": 2
+      }
+    }
+  },
+  "5361400": {
+    "lecturerId": 5361400,
+    "blocks": {
+      "1B": {
+        "courseCode": "BIB10",
+        "title": "Bible 10",
+        "room": 201,
+        "studentCount": 20,
+        "sectionNumber": 2
+      },
+      "2A": {
+        "courseCode": "FAF",
+        "title": "Faith & Film",
+        "room": 202,
+        "studentCount": 5,
+        "sectionNumber": 2
+      }
+    }
+  },
+  "5361409": {
+    "lecturerId": 5361409,
+    "blocks": {
+      "4B": {
+        "courseCode": "SCIERTH",
+        "title": "Earth and Space Science",
+        "room": 124,
+        "studentCount": 14,
+        "sectionNumber": 2
+      },
+      "2B": {
+        "courseCode": "SCIBIOH",
+        "title": "Biology Honors",
+        "room": 124,
+        "studentCount": 21,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361411": {
+    "lecturerId": 5361411,
+    "blocks": {
+      "1A": {
+        "courseCode": "PEHealthHS",
+        "title": "Health - High",
+        "room": 118,
+        "studentCount": 12,
+        "sectionNumber": 3
+      },
+      "1B": {
+        "courseCode": "PEPF",
+        "title": "Personal Fitness",
+        "room": 148,
+        "studentCount": 9,
+        "sectionNumber": 1
+      },
+      "2A": {
+        "courseCode": "PERS",
+        "title": "Recreational Sports",
+        "room": 148,
+        "studentCount": 8,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361412": {
+    "lecturerId": 5361412,
+    "blocks": {
+      "3": {
+        "courseCode": "MATHALGIII",
+        "title": "Trig/Algebra III",
+        "room": 118,
+        "studentCount": 11,
+        "sectionNumber": 1
+      },
+      "4B": {
+        "courseCode": "MATDESTATS",
+        "title": "Dual Enrollment Statistics 152",
+        "room": 125,
+        "studentCount": 1,
+        "sectionNumber": 1
+      },
+      "1A": {
+        "courseCode": "MATTrigH",
+        "title": "Trig/Pre-Calculus Hon",
+        "room": 125,
+        "studentCount": 15,
+        "sectionNumber": 1
+      },
+      "2A": {
+        "courseCode": "MATHSTATSH",
+        "title": "Statistics Honors",
+        "room": 125,
+        "studentCount": 6,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361415": {
+    "lecturerId": 5361415,
+    "blocks": {
+      "3": {
+        "courseCode": "ARTDRAW",
+        "title": "Drawing and Painting",
+        "room": 133,
+        "studentCount": 19,
+        "sectionNumber": 1
+      },
+      "4B": {
+        "courseCode": "ARTSTD2",
+        "title": "Studio Art II",
+        "room": 133,
+        "studentCount": 11,
+        "sectionNumber": 1
+      },
+      "1B": {
+        "courseCode": "ARTSTD1",
+        "title": "Studio Art I",
+        "room": 133,
+        "studentCount": 10,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361417": {
+    "lecturerId": 5361417,
+    "blocks": {
+      "1B": {
+        "courseCode": "BIB11",
+        "title": "Bible 11",
+        "room": 201,
+        "studentCount": 20,
+        "sectionNumber": 2
+      }
+    }
+  },
+  "5361420": {
+    "lecturerId": 5361420,
+    "blocks": {}
+  },
+  "5361422": {
+    "lecturerId": 5361422,
+    "blocks": {
+      "2B": {
+        "courseCode": "DESOCWCIV2",
+        "title": "Dual Enrollment World Civ. 151",
+        "room": 113,
+        "studentCount": 4,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361454": {
+    "lecturerId": 5361454,
+    "blocks": {
+      "3": {
+        "courseCode": "BIB9",
+        "title": "Bible 9",
+        "room": 126,
+        "studentCount": 15,
+        "sectionNumber": 2
+      },
+      "2A": {
+        "courseCode": "BIB12",
+        "title": "Bible 12",
+        "room": 210,
+        "studentCount": 18,
+        "sectionNumber": 2
+      }
+    }
+  },
+  "5361457": {
+    "lecturerId": 5361457,
+    "blocks": {
+      "3": {
+        "courseCode": "DESOCIP",
+        "title": "Dual Enrollment Intro. to Psych. 101",
+        "room": 123,
+        "studentCount": 5,
+        "sectionNumber": 1
+      },
+      "4B": {
+        "courseCode": "DEITCHG",
+        "title": "Dual Enrollment Intro. to Teaching 201",
+        "room": 123,
+        "studentCount": 2,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361461": {
+    "lecturerId": 5361461,
+    "blocks": {
+      "3": {
+        "courseCode": "FINLIT",
+        "title": "Financial Literacy",
+        "room": 209,
+        "studentCount": 12,
+        "sectionNumber": 2
+      },
+      "2B": {
+        "courseCode": "SOC11",
+        "title": "World History",
+        "room": 202,
+        "studentCount": 26,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361474": {
+    "lecturerId": 5361474,
+    "blocks": {
+      "3": {
+        "courseCode": "ENG12WORLDH",
+        "title": "World Literature Honors",
+        "room": 114,
+        "studentCount": 7,
+        "sectionNumber": 1
+      },
+      "2B": {
+        "courseCode": "DEENG101",
+        "title": "Dual Enrollment English 101",
+        "room": 114,
+        "studentCount": 1,
+        "sectionNumber": 1
+      },
+      "1A": {
+        "courseCode": "ENG12WORLD",
+        "title": "World Literature",
+        "room": 114,
+        "studentCount": 12,
+        "sectionNumber": 1
+      },
+      "4B": {
+        "courseCode": "ENG10H",
+        "title": "English 10 Honors",
+        "room": 114,
+        "studentCount": 23,
+        "sectionNumber": 1
+      },
+      "2A": {
+        "courseCode": "ENG11AMLTH-",
+        "title": "American Literature Honors",
+        "room": 114,
+        "studentCount": 21,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361487": {
+    "lecturerId": 5361487,
+    "blocks": {
+      "2A": {
+        "courseCode": "ARTChor",
+        "title": "Chorus - High",
+        "room": 129,
+        "studentCount": 16,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361492": {
+    "lecturerId": 5361492,
+    "blocks": {
+      "1B": {
+        "courseCode": "SOC10GOV",
+        "title": "American Government & Politics",
+        "room": 203,
+        "studentCount": 15,
+        "sectionNumber": 2
+      },
+      "1A": {
+        "courseCode": "SOC10GOVH",
+        "title": "American Government & Politics Honors",
+        "room": 202,
+        "studentCount": 19,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361498": {
+    "lecturerId": 5361498,
+    "blocks": {
+      "1A": {
+        "courseCode": "SCICHEM10H",
+        "title": "Chemistry Honors",
+        "room": 122,
+        "studentCount": 19,
+        "sectionNumber": 2
+      },
+      "2B": {
+        "courseCode": "DEBIO101",
+        "title": "Dual Enrollment Biology 101",
+        "room": 122,
+        "studentCount": 16,
+        "sectionNumber": 1
+      },
+      "2A": {
+        "courseCode": "SCIPHYH",
+        "title": "Physics Honors",
+        "room": 122,
+        "studentCount": 7,
+        "sectionNumber": 1
+      },
+      "1B": {
+        "courseCode": "DECHEM105",
+        "title": "Dual Enrollment Chemistry 105",
+        "room": 122,
+        "studentCount": 2,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361516": {
+    "lecturerId": 5361516,
+    "blocks": {
+      "1A": {
+        "courseCode": "TECHADVROB",
+        "title": "Advanced Robotics",
+        "room": 205,
+        "studentCount": 8,
+        "sectionNumber": 1
+      },
+      "1B": {
+        "courseCode": "APComp",
+        "title": "AP Computer Science",
+        "room": 205,
+        "studentCount": 6,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361519": {
+    "lecturerId": 5361519,
+    "blocks": {
+      "3": {
+        "courseCode": "ARTBND",
+        "title": "Band - High",
+        "room": 130,
+        "studentCount": 19,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361526": {
+    "lecturerId": 5361526,
+    "blocks": {
+      "1B": {
+        "courseCode": "SCIPHY",
+        "title": "Physical Science",
+        "room": 123,
+        "studentCount": 16,
+        "sectionNumber": 1
+      },
+      "2B": {
+        "courseCode": "SCIMABIO",
+        "title": "Marine Biology",
+        "room": 122,
+        "studentCount": 10,
+        "sectionNumber": 1
+      },
+      "2A": {
+        "courseCode": "MATALG1H",
+        "title": "Algebra 1 Honors",
+        "room": 123,
+        "studentCount": 5,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5361540": {
+    "lecturerId": 5361540,
+    "blocks": {
+      "3": {
+        "courseCode": "LANSP2",
+        "title": "Spanish II",
+        "room": 128,
+        "studentCount": 23,
+        "sectionNumber": 2
+      },
+      "4A": {
+        "courseCode": "LANSP1",
+        "title": "Spanish I",
+        "room": 128,
+        "studentCount": 15,
+        "sectionNumber": 2
+      },
+      "1B": {
+        "courseCode": "LANSP3",
+        "title": "Spanish III",
+        "room": 128,
+        "studentCount": 10,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5396676": {
+    "lecturerId": 5396676,
+    "blocks": {
+      "2A": {
+        "courseCode": "TECHYEAR",
+        "title": "Yearbook",
+        "room": 305,
+        "studentCount": 6,
+        "sectionNumber": 1
+      }
+    }
+  },
+  "5407259": {
+    "lecturerId": 5407259,
+    "blocks": {
+      "3": {
+        "courseCode": "MATALG2H",
+        "title": "Alg II Honors",
+        "room": 125,
+        "studentCount": 26,
+        "sectionNumber": 1
+      },
+      "4A": {
+        "courseCode": "MATGEOMH",
+        "title": "Geometry Honors",
+        "room": 128,
+        "studentCount": 20,
+        "sectionNumber": 1
+      },
+      "1B": {
+        "courseCode": "MATGEOM",
+        "title": "Geometry",
+        "room": 125,
+        "studentCount": 18,
+        "sectionNumber": 1
+      }
+    }
+  }
+}
